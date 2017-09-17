@@ -1,0 +1,25 @@
+
+body {background-color: rosybrown}
+
+header { text-align: center; font-weight: bold; font-size: 48px;}
+
+h1 { text-align: center; font-weight: bold; font-size: 36px;}
+
+.image1 {height: 225px; width:1200px; margin: 1px auto; display: block;}
+
+.image2 {height: 225px; width:700px; margin: 1px auto; display: block;}
+
+.image3 {height: 225px; width:700px; margin: 1px auto; display: block;}
+
+p {font-size: 20px; margin-top: 50px; margin-bottom: 50px; margin-right: 80px; margin-left: 80px; padding-top: 10px; padding-bottom: 10px;
+       
+
+#tour {color: navy}
+#company {color: red}
+
+
+
+
+    
+       
+       
